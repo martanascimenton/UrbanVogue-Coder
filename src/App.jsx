@@ -1,6 +1,6 @@
 import './App.scss'
 import { Navigation } from './router/navigation/navigation'
-function App() {
+export function App() {
    return (
     <>
       <Navigation/>

@@ -1,7 +1,7 @@
 import { BagIcon } from "../../componets/bag-icon/bag-icon";
 import './navigation.scss'
 
-export function Navigation(){
+export function Navigation() {
     return(
         <>
         <div className="navigation">
